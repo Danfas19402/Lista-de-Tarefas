@@ -1,0 +1,38 @@
+📝 Lista de Tarefas
+Uma aplicação web simples e intuitiva para gerenciar sua lista de tarefas diárias. Adicione, conclua e exclua tarefas facilmente para manter sua organização em dia!
+
+✨ Recursos
+Adicionar Tarefas: Insira novas tarefas na lista através de um campo de texto.
+
+Concluir Tarefas: Marque tarefas como concluídas com um clique. A tarefa é visualmente riscada, facilitando a identificação.
+
+Desfazer Tarefas: Se mudar de ideia, você pode reverter o status de uma tarefa concluída.
+
+Excluir Tarefas: Remova tarefas da lista que não são mais necessárias.
+
+Interface Dinâmica: A lista é atualizada em tempo real com base nas suas ações.
+
+💻 Tecnologias Utilizadas
+O projeto foi construído usando as tecnologias fundamentais da web:
+
+HTML: Estrutura e marcação da página.
+
+CSS: Estilização e layout visual.
+
+JavaScript: Lógica de manipulação das tarefas (adicionar, concluir e excluir) e atualização dinâmica do DOM.
+
+🚀 Como Usar
+Clone o repositório:
+
+Bash
+
+git clone https://github.com/seu-usuario/lista-de-tarefas.git
+Abra o arquivo index.html no seu navegador de preferência.
+
+A partir daí, é só começar a interagir com a aplicação: digite uma tarefa e clique em "Adicionar" para inseri-la na lista.
+
+👤 Autor
+Seu Nome - Seu Perfil no GitHub
+
+📜 Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
